@@ -20,7 +20,7 @@ IntelliJ IDEA · MySQL · Git · Adobe Creative Suite · Figma · Postman · Avi
 An analytics tool that compares player stats and helps users strategize for fantasy baseball drafts. Built with **Java**, featuring backend logic and a simple UI.  
 *Capstone project for Per Scholas Java Bootcamp.*
 
-### 🍻 [Bottleworks Web Scraper](https://github.com/themooreyouknow1/BottleworksWebScraper.git)  
+### 🍻 [Bottleworks Inventory Finder](https://github.com/themooreyouknow1/BottleworksInventoryFinder.git)  
 Python-based web scraper that pulls and filters inventory from a local bottleshop based on user-defined keywords.  
 *Final project for Harvard CS50p course.*
 
