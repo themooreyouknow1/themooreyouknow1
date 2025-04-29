@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jacob Moore!
 
-🎨 A **Full-Stack Java Developer** with a background in **graphic design** and **broadcast production**. I combine creative vision with technical execution to build seamless, user-friendly applications. Whether it's a clean UI or a data-driven backend, I love projects that balance form and function.
+A **Full-Stack Java Developer** with a background in **graphic design** and **broadcast production**. I combine creative vision with technical execution to build seamless, user-friendly applications. Whether it's a clean UI or a data-driven backend, I love projects that balance form and function.
 
 ---
 
